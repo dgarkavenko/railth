@@ -1,0 +1,17 @@
+# Ignore all log, bin, intermediate files
+*.log
+Binaries/
+Intermediate/
+Saved/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/FirstPersonArms/
+Content/FPWeapon/
+
+# Ignore DerivedDataCache, Build and other local files
+DerivedDataCache/
+Build/
+*.opensdf
+*.sdf
+*.user
+*.opendb

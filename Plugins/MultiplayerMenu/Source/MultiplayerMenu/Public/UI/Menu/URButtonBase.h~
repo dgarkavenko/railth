@@ -1,0 +1,12 @@
+#pragma once
+
+#include "CommonButtonBase.h"
+#include "URButtonBase.generated.h"
+
+UCLASS(Abstract)
+class RAILTH_API URButtonBase : public UCommonButtonBase
+{
+	GENERATED_BODY()
+public:
+	
+};

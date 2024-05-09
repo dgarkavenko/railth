@@ -1,0 +1,9 @@
+#include "Framework/Data/StaticGameData.h"
+
+namespace UILayerTags
+{
+	UE_DEFINE_GAMEPLAY_TAG_COMMENT(TAG_UI_LAYER_GAME, "UI.Layer.Game", "");
+	UE_DEFINE_GAMEPLAY_TAG_COMMENT(TAG_UI_LAYER_GAMEMENU, "UI.Layer.GameMenu", "");
+	UE_DEFINE_GAMEPLAY_TAG_COMMENT(TAG_UI_LAYER_MENU, "UI.Layer.Menu", "");
+	UE_DEFINE_GAMEPLAY_TAG_COMMENT(TAG_UI_LAYER_MODAL, "UI.Layer.Modal", "");
+}
