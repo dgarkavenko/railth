@@ -1,0 +1,4 @@
+class ARailthGameMode : AGameMode
+{
+
+}

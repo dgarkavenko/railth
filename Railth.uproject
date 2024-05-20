@@ -41,6 +41,10 @@
 		{
 			"Name": "AngelscriptStructUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }
